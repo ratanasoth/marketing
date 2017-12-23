@@ -11,7 +11,7 @@
 $config = [
     'name'   => 'English - United States',
     'locale' => 'en_US',
-    'author' => 'Mautic Team',
+    'author' => 'Vdoo Team',
 ];
 
 return $config;
